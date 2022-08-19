@@ -12,9 +12,3 @@ To play this game , Download the execution file i.e 'Project1.exe' from above re
 
 So play this game and enjoy.
 
-
-![Screenshot (20)](https://user-images.githubusercontent.com/75175481/185608395-82e7aa57-343f-45ab-8c9c-6f0dabc195c6.png)
-![Screenshot (21)](https://user-images.githubusercontent.com/75175481/185608474-f1d7bb6d-f2dd-46dc-98df-9fc16487e9db.png)
-![Screenshot (22)](https://user-images.githubusercontent.com/75175481/185608527-17c2b09f-ab07-496e-b94a-9dec82790d4e.png)
-![Screenshot (23)](https://user-images.githubusercontent.com/75175481/185608548-54d9e542-8a75-482d-bd14-44f33ebf7b3b.png)
-![Screenshot (25)](https://user-images.githubusercontent.com/75175481/185608559-bf59f83b-e4ab-4934-95da-5a575295401a.png)
