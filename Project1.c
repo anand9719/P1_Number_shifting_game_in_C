@@ -187,7 +187,7 @@ void gameRule(int arr[][4])
 int main()
 {
     int arr[4][4];    // matrix
-    int maxTry = 10; // maximum move
+    int maxTry = 100; // maximum move
     char name[25];
     system("cls"); // to clear screen
     printf("Welcome To The Game !\n\n");
@@ -255,7 +255,7 @@ int main()
             system("color B");
             printf("Thanks for Playing !");
             break;}
-        maxTry = 10;
+        maxTry = 100;
     }
     return 0;
 }
